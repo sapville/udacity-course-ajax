@@ -46,7 +46,7 @@
   function addArticle (data) {
     let containerContent = '';
     if (!data) {
-      containerContent = '<p>No article found</p>'
+      containerContent = '<p>No article found</p>';
     } else {
       console.log(data);
       containerContent = `

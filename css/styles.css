@@ -40,16 +40,6 @@ body {
   padding: 1em 0;
 }
 
-.radio {
-  color: white;
-  width: 15%;
-}
-
-.search {
-  display: flex;
-  width: 85%;
-}
-
 #search-keyword {
   border: none;
   border-radius: 4px;
